@@ -88,3 +88,8 @@ p {
     text-align: center;
   }
 }
+
+.btn:hover {
+  color: var(--bs-btn-hover-color);
+  border-color: var(--bs-btn-hover-border-color);
+}
