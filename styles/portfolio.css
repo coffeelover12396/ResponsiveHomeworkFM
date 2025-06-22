@@ -91,4 +91,5 @@ p {
 
 .btn:hover {
   color: #212529;
+  background-color: var(--branding-color);
 }
