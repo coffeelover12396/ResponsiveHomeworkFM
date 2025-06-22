@@ -90,6 +90,5 @@ p {
 }
 
 .btn:hover {
-  color: var(--bs-btn-hover-color);
-  border-color: var(--bs-btn-hover-border-color);
+  color: #212529;
 }
