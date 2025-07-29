@@ -65,6 +65,9 @@ p {
 .about-section-content {
   margin: 30px;
 }
+.rounded {
+  border-radius: 15px;
+}
 .btn-branding {
   background: var(--branding-color);
   border-radius: 4px;
