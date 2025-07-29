@@ -62,6 +62,14 @@ p {
   font-family: var(--default-font-family);
 }
 
+.content h3 {
+  font-size: 24px;
+  font-family: var(--default-font-family);
+  line-height: 1.5;
+}
+.content p {
+  font-size: 14px;
+}
 .content {
   margin: 30px;
 }
@@ -105,7 +113,7 @@ p {
     padding: 0;
     text-align: center;
   }
-  .about-section {
+  .content {
     text-align: center;
     padding: 0;
   }
